@@ -183,7 +183,7 @@ function Signupteacher() {
         <div className='lgnd1' style={{ width: "50%", height: "100vh", backgroundColor: "black", textAlign: 'center', display: "flex", justifyContent: 'center', alignItems: "center", color: "white" }}>
           <div style={{ display: "block", justifyContent: 'center', alignItems: "center", color: "white" }}>
             <img src={logo} style={{width:"150px",height:"150px"}}/>
-            <h2 style={{ fontFamily: "Time new Roman" }}><label style={{ fontSize: 67 }}>LOGO </label> <br /> VIRTUAL LEARNING PLATFORM</h2>
+            <h2 style={{ fontFamily: "Time new Roman" }}><label style={{ fontSize: 67 }}>MindForge </label> <br /> VIRTUAL LEARNING PLATFORM</h2>
           </div>
         </div>
       </div>
